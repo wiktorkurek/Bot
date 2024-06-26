@@ -11,7 +11,7 @@ This Discord bot fetches the spot K-line data for the SOL/USDT pair from Bybit, 
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/wiktorkurek/Bot.git
    cd Bot
 
 2. Create a .env file with your Discord bot token and channel ID:
